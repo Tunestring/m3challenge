@@ -10,7 +10,8 @@ None required.
 
 ## Usage
 
-The below picture is what the website will look like on a desktop monitor. Change the resolution to see the website's responsiveness.
+Click the button labled "Generate Password" which will give the user a string of prompts determining the variables used in the password generator. Set the variables, and the generator
+will randomly generate a password with the user input criteria.
 
 <img src="./Assets/03-javascript-homework-demo.png" alt="Screenshot of Password Button" style="display: inline-block; margin 0 auto; max-width: 300px">
 
