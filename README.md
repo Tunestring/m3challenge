@@ -10,8 +10,7 @@ None required.
 
 ## Usage
 
-Click the button labled "Generate Password" which will give the user a string of prompts determining the variables used in the password generator. Set the variables, and the generator
-will randomly generate a password with the user input criteria.
+Click the button labeled "Generate Password" which will give the user a string of prompts determining the variables used in the password generator. Set the variables, and the generator will randomly generate a password with the user input criteria.
 
 <img src="./Assets/03-javascript-homework-demo.png" alt="Screenshot of Password Button" style="display: inline-block; margin 0 auto; max-width: 300px">
 
@@ -21,7 +20,7 @@ Foolish Developer - https://dev.to/code_mystery/random-password-generator-using-
 Traversy Media - https://www.youtube.com/watch?v=duNmhKgtcsI
 W3schools - https://www.w3schools.com/jsref/jsref_random.asp
 
-And as always, this couldn't have been completed with out the help from fellow classmates!
+And as always, this couldn't have been completed with out the help from fellow classmates! (Honestly, this is like drinking out of a firehose at this point.)
 
 ## License
 
