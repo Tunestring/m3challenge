@@ -20,7 +20,7 @@ Foolish Developer - https://dev.to/code_mystery/random-password-generator-using-
 Traversy Media - https://www.youtube.com/watch?v=duNmhKgtcsI<br>
 W3schools - https://www.w3schools.com/jsref/jsref_random.asp<br>
 
-And as always, this couldn't have been completed with out the help from fellow classmates! (Honestly, this is like drinking out of a firehose at this point.)
+And as always, this couldn't have been completed without the help from fellow classmates! (Honestly, this is like drinking out of a firehose at this point.)
 
 ## License
 
